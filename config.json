@@ -1,0 +1,276 @@
+{
+	"whatsapp": "8697894080",
+	"portfolio": {
+		"Content_Marketing": [
+			{
+				"title": "Webpage Content",
+				"description": "Craft your website's personality with compelling headlines and CTA. This refers to the information that appears on a website's pages, including its homepage, product or services pages, about us and contact us pages. It should be engaging, informative and optimized for search engines.",
+				"samples": [
+					{
+						"company": "Darveys",
+						"thumbnail": "resources/portfolio/darveys.jpg",
+						"caption": "Darveys brings you the premium products across clothing, bags, accessories and others.",
+						"url": "https://www.darveys.com/catalog/women/bags/bucket-bags"
+					},
+					{
+						"company": "Primedin Wealth",
+						"thumbnail": "resources/portfolio/primedin.jpeg",
+						"caption": "Primedin Wealth provides comprehensive wealth management solutions for individuals and businesses in India.",
+						"url": "https://primedinwealth.com/"
+					},
+					{
+						"company": "YoTreasure",
+						"thumbnail": "resources/portfolio/yotreasure.jpeg",
+						"caption": "Styling is Freedom to Us! You can find stylish, high-quality, uniquely you jewelry here-no matter who you are.",
+						"url": "https://yotreasure.com/collections/turquoise-jewelry"
+					}
+				]
+			},
+			{
+				"title": "Blogs/Articles",
+				"description": "Captivate your audience with engaging content that keeps them coming back. Blogging is one of the most popular forms of content marketing. Blogs and articles are used to educate, inform, and engage readers while building trust with the brand. They should be designed to attract, retain, and entertain target audiences.",
+				"samples": [
+					{
+						"company": "INDmoney",
+						"thumbnail": "resources/portfolio/INDmoney.jpg",
+						"caption": "INDmoney is an application that allows Indian investors to invest in US stocks from India without charging any commission.",
+						"url": "https://www.indmoney.com/articles"
+					},
+					{
+						"company": "Primedin Wealth",
+						"thumbnail": "resources/portfolio/primedin.jpeg",
+						"caption": "Primedin Wealth provides comprehensive wealth management solutions for individuals and businesses in India.",
+						"url": "https://primedinwealth.com/blogs/"
+					},
+					{
+						"company": "5paisa",
+						"thumbnail": "resources/portfolio/5paisa.jpg",
+						"caption": "Simplify your investing experience with our advanced and user-friendly web-based online trading platform.",
+						"url": "https://www.5paisa.com/finschool/beginners-guide-to-mutual-funds-2/"
+					}
+				]
+			},
+			{
+				"title": "Study Guide/ebooks",
+				"description": "Inspire learning and unlock knowledge with our engaging study guides and eBooks. Study guides and eBooks help to establish brands as experts in their field by providing valuable information that readers can use to make informed decisions. They offer more in-depth information and are typically downloadable or available in PDF format.",
+				"samples": [
+					{
+						"company": "Wiingy",
+						"thumbnail": "resources/portfolio/wiingy.jpg",
+						"caption": "Wiingy provides 1-to-1 online tutoring, instructor-led online technology courses, and web tutorials.",
+						"url": "https://wiingy.com/"
+					},
+					{
+						"company": "Ischoolconnect",
+						"thumbnail": "resources/portfolio/ischoolconnect.jpg",
+						"caption": "iSchoolConnect is an emerging AI technology platform that speeds up the process of applying to colleges and courses abroad.",
+						"url": "https://ischoolconnect.com/blog/"
+					}
+				]
+			},
+			{
+				"title": "Whitepaper",
+				"description": "Establish your business's authority with informative and well-researched whitepapers. Whitepapers are written to inform, educate, and engage target audiences on specific topics or solutions. They are designed to be informative, comprehensible, and actionable.",
+				"samples": [
+					{
+						"company": "Caesium",
+						"thumbnail": "resources/portfolio/caesiumlab.jpeg",
+						"caption": "Caesium is a valuable crypto investment platform dedicated to making crypto accessible to the masses and simplifying your investments.",
+						"url": "https://drive.google.com/drive/u/1/folders/1O0VXGsGCyfyl8npfk4ijqM9dLrc9o64c"
+					}
+				]
+			},
+			{
+				"title": "Pitch Decks",
+				"description": "Seal the deal with a pitch that makes investors say \"Yes, please!\". Pitch decks are presentations designed for pitching products, services, or ideas to potential investors, partners, or clients. They should be visually appealing, concise, and persuasive.",
+				"samples": []
+			},
+			{
+				"title": "Press Release",
+				"description": "Make headlines and a lasting impression with our expertly crafted press releases. A press release is an official statement released to the media to inform them about newsworthy events or updates. They should be professionally written, fact-based, and adhere to AP style guidelines.",
+				"samples": [
+					{
+						"company": "Caesium",
+						"thumbnail": "resources/portfolio/caesiumlab.jpeg",
+						"caption": "Caesium is a valuable crypto investment platform dedicated to making crypto accessible to the masses and simplifying your investments.",
+						"url": "https://docs.google.com/document/d/1J2biI2iQPuERbrBf1MwN7V-igZ7_rQ3C/edit?usp=sharing&ouid=109669357337756307494&rtpof=true&sd=true"
+					}
+				]
+			},
+			{
+				"title": "Social Media",
+				"description": "Engage your audience and create a social media presence that people will love. Social media content is designed to be informative, entertaining, and engaging. It should be optimized for specific social media platforms and tailored to meet the target audience's interests and preferences.",
+				"samples": [
+					{
+						"company": "Ahuja Residency",
+						"thumbnail": "resources/portfolio/ahujaresidences.jpg",
+						"caption": "Established in 1982, Ahuja Residency is one of India's leading providers of quality guest houses, corporate housing and serviced apartments.",
+						"url": "https://www.linkedin.com/company/ahuja-residences/?originalSubdomain=in"
+					},
+					{
+						"company": "TechIndia",
+						"thumbnail": "resources/portfolio/techindia.jpg",
+						"caption": "Established in 2001, Techindia delivers world-class, enterprise healthcare management solutions.",
+						"url": "https://www.linkedin.com/company/techindia-infoway-pvt-ltd--/?originalSubdomain=in"
+					},
+					{
+						"company": "Lutiband",
+						"thumbnail": "resources/portfolio/lutiband.jpg",
+						"caption": "LutiBand securely sends real-time information to 911 emergency communication centers in the USA.",
+						"url": "https://www.linkedin.com/company/lutiband/"
+					},
+					{
+						"company": "TRST Score",
+						"thumbnail": "resources/portfolio/trstscore.jpg",
+						"caption": "TRST ( Trust ) Score is a venture by Fiducia Score Private Limited, created to be like a Credit Score except it is a rating of employees trust.",
+						"url": "https://www.linkedin.com/company/trstscore/?originalSubdomain=in"
+					}
+				]
+			},
+			{
+				"title": "Case Studies",
+				"description": "Showcase your business's success stories in style with our expertly crafted case studies. A case study is an in-depth report about how a brand helped a specific client or customer solve a problem or achieve their goals. They should be well-researched, clear, and provide actionable insights.",
+				"samples": []
+			},
+			{
+				"title": "Offpage Blogs",
+				"description": "Expand your reach beyond your website with our carefully crafted off-page content. Offpage content refers to content that is not hosted on a brand's website but is designed to drive traffic to it. It includes guest blog posts, social media posts, and other forms of outreach.",
+				"samples": [
+					{
+						"company": "INDmoney",
+						"thumbnail": "resources/portfolio/INDmoney.jpg",
+						"caption": "INDmoney is an application that allows Indian investors to invest in US stocks from India without charging any commission.",
+						"url": ""
+					},
+					{
+						"company": "Tickertape",
+						"thumbnail": "resources/portfolio/tickertape.jpg",
+						"caption": "Tickertape is your all-in-one analysis & investment platform for stocks, mutual funds, ETFs and indices.",
+						"url": ""
+					},
+					{
+						"company": "5paisa",
+						"thumbnail": "resources/portfolio/5paisa.jpg",
+						"caption": "Simplify your investing experience with our advanced and user-friendly web-based online trading platform.",
+						"url": ""
+					},
+					{
+						"company": "Growisto",
+						"thumbnail": "resources/portfolio/growisto.jpg",
+						"caption": "Growisto is an eCommerce Marketing and Technology Consulting Company, based out of India and the USA.",
+						"url": ""
+					},
+					{
+						"company": "Orange Digitals",
+						"thumbnail": "resources/portfolio/orangedigital.jpeg",
+						"caption": "Orange Digital Media offers all sorts of digital marketing services that are high in standard and best in quality.",
+						"url": ""
+					}
+				]
+			},
+			{
+				"title": "Copywriting",
+				"description": "Sell without selling with our compelling and persuasive copywriting. Copywriting is the art of creating content that persuades readers to take a particular action. It should be entertaining, informative, and engaging while motivating the reader to take specific actions.",
+				"samples": []
+			},
+			{
+				"title": "Reviews",
+				"description": "Earn trust with real and authentic reviews that convince potential customers. Reviews are feedback from customers that share their experience and opinion about a product, service, or brand. Brands can use reviews to showcase their strengths and identify areas for improvement.",
+				"samples": []
+			},
+			{
+				"title": "Newsletters",
+				"description": "Stay in touch and keep your subscribers engaged with our well-crafted newsletters. A newsletter is a periodic email sent to subscribers with news, updates, and promotions from a brand. They should be engaging, personalized, and provide real value to the reader.",
+				"samples": []
+			}
+		],
+		"Website_Development": [
+			{
+				"title": "Blogs",
+				"description": "Enable individuals and organizations to share their ideas, opinions, and insights on specific interests and topics. A blog is a website or section of a website that is regularly updated with new content. Typically, a blog is written in a more personal tone than a traditional news site or business website. The content of a blog can cover a variety of topics and can be used for marketing or personal expression.",
+				"samples": []
+			},
+			{
+				"title": "Landing pages",
+				"description": "Convert visitors into leads or customers and measure the success of a marketing campaign. A landing page is a single web page that is created specifically for a marketing campaign. It typically includes a call-to-action (CTA) such as signing up for a newsletter or making a purchase. The goal of a landing page is to convert visitors into customers.",
+				"samples": []
+			},
+			{
+				"title": "Portfolio",
+				"description": "Online portfolios showcasing a professional or personal body of work for job seekers or businesses. A portfolio website is a showcase of an individual's or company's work. It is a way to display examples of past projects and skills in order to attract potential clients or employers. A portfolio website is commonly used by creative professionals such as photographers, graphic designers, and writers.",
+				"samples": []
+			},
+			{
+				"title": "Personal Website",
+				"description": "Created and maintained by individuals to share their bio, portfolio, blogs, and photos. A personal website is an online presence that represents an individual or their brand. A personal website can include information about the person's background, interests, and achievements. It can also be used as a platform for personal expression or to showcase creative work.",
+				"samples": []
+			},
+			{
+				"title": "E-Commerce",
+				"description": "Designed for businesses to sell their products or services online. E-commerce refers to the buying and selling of goods and services online. An e-commerce website acts as a virtual storefront where customers can browse and purchase products. E-commerce websites typically include shopping carts, payment processing, and product listings.",
+				"samples": []
+			},
+			{
+				"title": "News",
+				"description": "Offer the latest updates and breaking news from different regions and industries around the world. A news website is a site that publishes current events and news stories. It can cover a variety of topics such as politics, entertainment, and sports. The goal of a news website is to inform and engage readers.",
+				"samples": []
+			},
+			{
+				"title": "Non-profit",
+				"description": "Promote social and humanitarian activities and encourage donations and volunteering. A non-profit website is a website for a charitable or non-governmental organization. It typically includes information about the organization's mission, programs, and ways to donate or get involved. The goal of a non-profit website is to raise awareness and support for the organization's cause.",
+				"samples": []
+			},
+			{
+				"title": "Business",
+				"description": "Allow organizations to showcase their products and services, promote their brand, and interact with customers. A business website is a website for a company or corporation. It typically includes information about the company's products or services, history, and mission. The goal of a business website is to attract potential customers and promote the company's brand.",
+				"samples": []
+			}
+		]
+	},
+	"pricing": {
+		"Content_Marketing": {},
+		"Website_Development": {
+			"constants": [
+				"1 Domain",
+				"1 Database",
+				"Linux Hosting",
+				"10 GB Storage",
+				"512 MB RAM",
+				"Unmetered bandwidth",
+				"100% responsive"
+			],
+			"variable": [
+				{
+					"name": "Blogs",
+					"description": "Best for Blogs, News, Non-profits, and Landing pages.",
+					"price": "5999",
+					"services": [
+						"WordPress blog",
+						"Landing pages"
+					]
+				},
+				{
+					"name": "E-Commerce",
+					"description": "Ideal for Portfolios, Online magazines, and E-Commerce websites.",
+					"price": "6999",
+					"services": [
+						"WordPress WooCommerce",
+						"Portfolio",
+						"SSL certificate*"
+					]
+				},
+				{
+					"name": "Custom Solution",
+					"description": "Best suited for Personal Websites, Custom Business requirements, and services involving online transactions.",
+					"price": "7999",
+					"services": [
+						"Custom website",
+						"Payment Gateway",
+						"Social Media Integration",
+						"SSL certificate*"
+					]
+				}
+			]
+		}
+	}
+}

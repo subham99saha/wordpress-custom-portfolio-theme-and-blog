@@ -1,0 +1,83 @@
+body,h1,h2{font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+p {}
+.bgimg, .bgimg2 {
+  min-height: 100%;
+}
+
+.logo {
+	font-family: 'Arimo', sans-serif;
+}
+.headliner {
+	font-family: 'Oswald', sans-serif;
+}
+.container {
+	text-align: justify;
+}
+.links {
+	text-decoration: none;
+}
+.absolute {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.anch {
+	text-decoration: none;
+}
+.anch:hover {
+	text-decoration: none;
+	opacity:0.5;
+}
+
+.titleTransition {
+  animation-fill-mode: forwards;
+  position:absolute; width:100%; height:34%; 
+}
+.titleTrans1 {
+  animation-duration: 1s;
+  animation-name: titleTransAnim1;  
+}
+.titleTrans2 {
+  animation-duration: 1.25s;
+  animation-name: titleTransAnim2;
+}
+.titleTrans3 {
+  animation-duration: 1.5s;
+  animation-name: titleTransAnim3;
+}
+@keyframes titleTransAnim1 {
+  from {left:0; top:0; width:100%}
+  to {left:100%; top:0; width:0%}
+}
+@keyframes titleTransAnim2 {
+  from {left:0; top:33.33%; width:100%}
+  to {left:100%; top:33.33%; width:0%}
+}
+@keyframes titleTransAnim3 {
+  from {left:0; top:66.66%; width:100%}
+  to {left:100%; top:66.66%; width:0%}
+}
+
+
+@media (max-width: 575.98px) {
+	.var-width {
+		width: 75%;
+	}
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.var-width {
+		width: 75%;
+	}
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.var-width {
+		width: 50%;
+	}
+}
+@media (min-width: 992px) {
+	.var-width {
+		width: 50%;
+	}
+}
